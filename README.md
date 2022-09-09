@@ -1,4 +1,9 @@
-### Hi there 👋
+# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </a> Hey there, Tejal here :sunflower:
+
+## I'm an AI enthusiast and grad, with an professional experience in Software Engineering. :robot:
+- 👩‍🎓 I’m currently pursuing my Master's in Artificial Intelligence from Northeastern University.
+- :books: I completed my undergrad in Computer Engineering from Mumbai University.
+- :woman_technologist: I've worked as a Software Engineer for two years at BNP Paribas.
 
 <!--
 **tejal04/tejal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
