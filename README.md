@@ -7,7 +7,7 @@
 
 <!-- Statistics -->
 <!-- ![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejal04&show_icons=true&theme=merko&count_private=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/tejal04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejal04&layout=compact)](https://github.com/tejal04/github-readme-stats)
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
