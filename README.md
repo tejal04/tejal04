@@ -19,6 +19,9 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="tejalrawale" height="30" width="40" />
 </a>
 
+![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejal04&show_icons=true&theme=merko&count_private=true)
+
+
 <!--
 **tejal04/tejal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
