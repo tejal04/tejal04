@@ -5,6 +5,9 @@
 - :books: I completed my undergrad in Computer Engineering from Mumbai University.
 - :woman_technologist: I've worked as a Software Engineer for two years at BNP Paribas.
 
+<!-- Statistics -->
+<!-- ![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejal04&show_icons=true&theme=merko&count_private=true) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/tejal04/github-readme-stats)
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
@@ -18,8 +21,6 @@
 <a href="mailto:rawale.t@northeastern.edu" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="tejalrawale" height="30" width="40" />
 </a>
-
-![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejal04&show_icons=true&theme=merko&count_private=true)
 
 
 <!--
