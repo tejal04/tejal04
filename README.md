@@ -99,6 +99,16 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank">
   <img align="center" src="https://logowik.com/content/uploads/images/jira2966.logowik.com.webp" alt="tejalrawale" height="40" />
 </a>  
+  
+<br>
+<br>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img align="center" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" alt="tejalrawale" height="40" />
+</a>  
+  
+<a href="https://cloud.google.com/" target="_blank">
+  <img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" alt="tejalrawale" height="40" />
+</a>  
 
 <br><br>
 ### Connect with me
