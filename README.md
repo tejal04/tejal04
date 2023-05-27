@@ -33,7 +33,7 @@
 </a>
  
 <a href="https://matplotlib.org/" target="_blank">
-  <img align="center" src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="tejalrawale" height="40"  />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" alt="tejalrawale" height="40"  />
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
@@ -85,7 +85,7 @@
 </a>  
   
 <a href="https://subversion.apache.org/" target="_blank">
-  <img align="center" src="https://subversion.apache.org/images/svn-name-banner.svg" alt="tejalrawale" height="40" />
+  <img align="center" src="https://svn.apache.org/repos/asf/subversion/svn-logos/images/tyrus-svn2.png" alt="tejalrawale" height="40" />
 </a>  
 
 <a href="https://www.jenkins.io/" target="_blank">
@@ -93,7 +93,7 @@
 </a>  
 
 <a href="https://maven.apache.org/" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/33158051/103466428-2bd48f00-4d13-11eb-8d30-4602a442bfad.png" alt="tejalrawale" height="40" />
+  <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="tejalrawale" height="40" />
 </a>  
 
 <a href="https://www.atlassian.com/software/jira" target="_blank">
@@ -109,6 +109,20 @@
 <a href="https://cloud.google.com/" target="_blank">
   <img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" alt="tejalrawale" height="40" />
 </a>  
+
+<br>
+<br>
+<a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers" target="_blank">
+  <img align="center" src="https://www.supremits.lt/wp-content/uploads/2018/01/html5-css-javascript-logos-2.png" alt="tejalrawale" height="40" />
+</a>  
+  
+<a href="https://nodejs.org/en" target="_blank">
+  <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="tejalrawale" height="40" />
+</a>  
+  
+<a href="https://angularjs.org/" target="_blank">
+  <img align="center" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/angularjs-logo-blog-header_0.jpg" alt="tejalrawale" height="40" />
+</a> 
 
 <br><br>
 ### Connect with me
