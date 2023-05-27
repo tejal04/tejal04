@@ -9,6 +9,77 @@
 <!-- ![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejal04&show_icons=true&theme=merko&count_private=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejal04&layout=compact&count_private=true)](https://github.com/tejal04)
 
+<br> 
+
+### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="tejalrawale" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="tejalrawale" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="tejalrawale" height="40" />
+  
+  
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="tejalrawale" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tejalrawale" height="40"  />
+</a>
+ 
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="tejalrawale" height="40"  />
+</a>
+
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="tejalrawale" height="40"  />
+</a>  
+
+<br>
+<br>
+
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="tejalrawale" height="40"  />
+</a>
+
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfNfV_bVFloaaz0uW8D6XB9XjhfZhWIybxDXxJn0&s" alt="tejalrawale" height="40"  />
+</a>
+  
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hibernate_logo_a.png/1200px-Hibernate_logo_a.png" alt="tejalrawale" height="40"  />
+</a>  
+  
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREDxzCgp6eKo9w39nxeezKIt8I_a2M3I0ed1k4ECqnVQ&s" alt="tejalrawale" height="40" />
+</a>   
+
+<br>
+<br>
+  
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="tejalrawale" height="40" />
+</a>  
+  
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://online.odu.edu/sites/default/files/program/oracle_pl-sql.png" alt="tejalrawale" height="40" />
+</a>  
+
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="tejalrawale" height="40" />
+</a>  
+  
+<a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
+  <img align="center" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="tejalrawale" height="40" />
+</a>  
+  
+
+<br><br>
 ### Connect with me
 <a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="tejalrawale" height="30" width="40" />
