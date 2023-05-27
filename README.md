@@ -75,7 +75,7 @@
 </a>  
   
 <a href="https://www.mongodb.com/" target="_blank">
-  <img align="center" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="tejalrawale" height="40" />
+  <img align="center" src="https://res.cloudinary.com/hevo/image/upload/v1626694700/hevo-blog/MongoDB-sm-logo-500x400-1-1.gif" alt="tejalrawale" height="40" />
 </a>  
   
 <br>
@@ -121,7 +121,11 @@
 </a>  
   
 <a href="https://angularjs.org/" target="_blank">
-  <img align="center" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/angularjs-logo-blog-header_0.jpg" alt="tejalrawale" height="40" />
+  <img align="center" src="https://angular.io/assets/images/logos/angular/angular.png" alt="tejalrawale" height="40" />
+</a> 
+  
+<a href="https://www.php.net/" target="_blank">
+  <img align="center" src="https://www.php.net//images/logos/new-php-logo.svg" height="40" />
 </a> 
 
 <br><br>
