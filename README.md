@@ -33,7 +33,7 @@
 </a>
   
 <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank">
-  <img align="center" src="https://ih1.redbubble.net/image.2488655049.9084/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="tejalrawale" height="40"  />
+  <img align="center" src="https://www.giulianopertile.com/uploads/post/review-of-flask-from-a-django-developer/flask-logo-version-2.png" alt="tejalrawale" height="40"  />
 </a>
   
 <a href="https://matplotlib.org/" target="_blank">
