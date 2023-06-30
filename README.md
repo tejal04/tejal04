@@ -1,7 +1,7 @@
 # <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> </a> Hey there, Tejal here :sunflower:
 
 ## AI enthusiast and grad, with professional experience in Software Engineering. :robot:
-- 👩‍🎓 I’m currently pursuing my Master's in Artificial Intelligence from Northeastern University.
+- 👩‍🎓 I’m recent MS grad with specialization in Artificial Intelligence from Northeastern University.
 - :books: I completed my undergrad in Computer Engineering from Mumbai University.
 - :woman_technologist: I've worked as a Software Engineer for two years at BNP Paribas.
 
