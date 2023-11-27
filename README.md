@@ -11,7 +11,7 @@
 
 <br> 
 
-### Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   
+### Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   
 <a href="https://www.python.org/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="tejalrawale" height="40" />
 </a>
@@ -43,6 +43,10 @@
 <a href="https://seaborn.pydata.org/" target="_blank">
   <img align="center" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="tejalrawale" height="40"  />
 </a>  
+
+<a href="https://h2o.ai/" target="_blank">
+  <img align="center" src="https://docs.h2o.ai/assets/images/h2o_logo.svg" alt="tejalrawale" height="40"  />
+</a> 
 
 <br>
 <br>
@@ -126,6 +130,14 @@
   
 <a href="https://angularjs.org/" target="_blank">
   <img align="center" src="https://angular.io/assets/images/logos/angular/angular.png" alt="tejalrawale" height="40" />
+</a> 
+
+<a href="https://react.dev/" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="tejalrawale" height="40" />
+</a> 
+
+<a href="https://expressjs.com/" target="_blank">
+  <img align="center" src="https://miro.medium.com/v2/resize:fit:680/1*7G9vb_q5MA8_C_8HtwMfqw.png" alt="tejalrawale" height="40" />
 </a> 
   
 <a href="https://www.php.net/" target="_blank">
