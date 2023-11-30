@@ -145,7 +145,7 @@
 </a> 
 
 <br><br>
-### Connect with me
+### Socials
 <a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="tejalrawale" height="30" width="40" />
 </a>
