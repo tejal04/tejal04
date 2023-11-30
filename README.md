@@ -101,7 +101,7 @@
 </a>  
 
 <a href="https://maven.apache.org/" target="_blank">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="tejalrawale" height="40" />
+  <img align="center" src="https://www.svgrepo.com/show/354051/maven.svg" alt="tejalrawale" height="40" />
 </a>  
 
 <a href="https://www.atlassian.com/software/jira" target="_blank">
