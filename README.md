@@ -154,10 +154,11 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github" height="30" width="40" />
 </a>
 
+<!--
 <a href="mailto:rawale.t@northeastern.edu" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Outlook" height="30" width="40" />
 </a>
-
+-->
 
 <!--
 **tejal04/tejal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
