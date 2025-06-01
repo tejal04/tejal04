@@ -5,12 +5,12 @@
 - :books: I completed my undergrad in Computer Engineering from Mumbai University.
 - :woman_technologist: I've worked as a Software Engineer for two years at BNP Paribas.
 
+---
 <!-- Statistics -->
 <!-- ![Tejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejal04&show_icons=true&theme=merko&count_private=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejal04&layout=compact&count_private=true)](https://github.com/tejal04)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejal04&count_private=true&layout=compact)](https://github.com/tejal04)
 
-<br> 
-
+---
 ### Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>   
 <a href="https://www.python.org/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="40" />
@@ -144,7 +144,8 @@
   <img align="center" src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" height="40" />
 </a> 
 
-<br><br>
+---
+
 ### Socials
 <a href="https://www.linkedin.com/in/tejal-rawale/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="30" width="40" />
